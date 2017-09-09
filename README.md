@@ -1,5 +1,5 @@
 # API-Restful-php
-### API Restful que permite gestionar el consumo de servicios basado en Php, MySql y Json.
+### API Restful que permite gestionar el consumo de servicios basado en Php 5.6 , MySql y Json.
 
 - Operaciones soportadas POST: 'signup', 'login', 'listado', 'add' y 'saludo'.
 - Conexión con MySql PDO.
