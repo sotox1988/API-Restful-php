@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright (C) 2016 Matías Sotomayor Ramos
+ * Copyright (C) 2017 Matías Sotomayor Ramos
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
