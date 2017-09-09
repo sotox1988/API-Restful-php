@@ -140,7 +140,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             }
         } else if ($operacion == 'saludo') {
             $respuesta["resultado"]["estado"] = "Correcto";
-            $respuesta["resultado"]["mensaje"] = "API REST on POST Saludando.";
+            $respuesta["resultado"]["mensaje"] = "API REST on POST Holi :).";
             echo json_encode($respuesta);
         }
     } else {
