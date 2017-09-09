@@ -22,7 +22,7 @@ Recibiendo la salida también en Json:
 {
   "resultado":{
     "estado":"Correcto",
-    "mensaje":"API REST on POST Holi :)."
+    "mensaje":"API REST con POST Holi :)."
   }
 }
 ```
