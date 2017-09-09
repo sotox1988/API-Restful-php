@@ -1,5 +1,5 @@
 # API-Restful-php
-API que permite gestionar el consumo de servicios:
+### API que permite gestionar el consumo de servicios:
 
 - Operaciones soportadas POST: 'signup', 'login', 'listado', 'add' y 'saludo'.
 - Conexión con MySql PDO.
